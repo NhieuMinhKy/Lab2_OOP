@@ -1,7 +1,15 @@
+/**
+ * @description Test tính chu vi diện tích hình chữ nhật
+ * @author Minh Ky
+ * @version 1.0
+ * @created 4-Sep-2025 1:09 AM
+ */
 package iuh.fit.CS;
 
 import java.util.Scanner;
-
+/**
+ * Lớp kiểm thử cho Rectangle.
+ */
 public class TestRectangle {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
